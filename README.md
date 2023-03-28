@@ -4,6 +4,8 @@ Esse projeto é um desafio pessoal em que me baseei em um teste técnico que fic
 
 Desenvolvido com: HTML | CSS | Javascript
 
+Link para acessar: https://bellolucas.github.io/project-circles/
+
 Execução simples, bastando abrir o index.html. Recomendo o uso do live-server.
 
 ![2023-03-27-20-06-53](https://user-images.githubusercontent.com/68472772/228105036-4a23bdc1-39eb-494c-a2a7-98acc1b010f7.gif)
